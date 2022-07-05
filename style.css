@@ -1,0 +1,161 @@
+*{
+    background-color: deeppink;
+    text-decoration: none;
+}
+#cssmenu > ul > li.active{
+    list-style: none;
+    text-transform: uppercase;
+    font-weight: bold;
+    background-color: white;
+
+}
+#cssmenu > ul > li.has-sub{
+    list-style: none;
+    text-transform: uppercase;
+    font-weight: bold;
+
+
+}
+#cssmenu > ul > li:nth-child(3){
+    list-style: none;
+    text-transform: uppercase;
+    font-weight: bold;
+
+}
+#cssmenu > ul > li.last > a > span{
+    list-style: none;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+#cssmenu > ul > li.last{
+    list-style: none;
+    text-transform: uppercase;
+    font-weight: bold;
+
+}
+#cssmenu > ul{
+    display: inline-flex;
+    justify-content:space-between;
+}
+#cssmenu > ul{
+    justify-content: space-between;
+}
+#cssmenu > ul > li.has-sub{
+    position: relative;
+    margin-left: 40px;
+
+}
+#cssmenu > ul > li:nth-child(3){
+    position: relative;
+    margin-left: 40px;
+}
+#cssmenu > ul > li.last{
+    position: relative;
+    margin-left: 40px;
+
+}
+#cssmenu > ul > li.active{
+    background-color: white;
+}
+body > div > header > div.col-1-3 > div.header-text > h1{
+    font-style: italic;
+}
+body > div > header > div.col-1-3 > div.header-text > p{
+    position: relative;
+    width:500px;
+    font-size: 25px;
+}
+
+
+body > div > header > div.col-1-3 > div.header-text > h1{
+    position: relative;
+    color:white;
+
+}
+body > div > header > div.col-1-3 > div.header > div > div{
+    position: relative;
+    color: white;
+    font-weight: bold;
+    top:5px;
+}
+
+body > div > header > div.col-1-3 > div.header-text > a{
+    position: relative;
+    font-weight: bold;
+    bottom:20px;
+}
+
+body > div > header > div.col-1-3 > div.header > div > h2{
+    position: relative;
+    font-style: italic;
+    font-weight: bold;
+    color: white;
+    font-size: 30px;
+}
+body > div > header > div.col-1-3 > p{
+    position: relative;
+    font-size: 18px;
+}
+
+body > div > header > div.trading > div{
+    position: relative;
+    color: white;
+    font-weight: bold;
+    top:5px;
+}
+body > div > header > div.trading > h3{
+    position: relative;
+    font-style: italic;
+    font-weight: bold;
+    color: white;
+    font-size: 30px;
+}
+body > div > header > p{
+    position: relative;
+    font-size: 18px;
+}
+body > div > header > p > a{
+    font-weight: bold;
+
+}
+body > div > header > div.col-1-3 > div.header-text > a{
+    font-weight: bold;
+}
+
+body > div > header > div:nth-child(7) > div.box-item-content{
+    position: relative;
+    width:300px;
+    margin-left: 900px;
+
+}
+body > div > header > div:nth-child(7) > h3 > a{
+    position: relative;
+    margin-left:400px;
+    top:20px;
+}
+body > div > header > div:nth-child(7) > p{  position: relative;
+    margin-left:400px;
+}
+body > div > header > div:nth-child(7) > a{  position: relative;
+    margin-left:400px;
+}
+body > div > header > div:nth-child(6){
+width:300px;}
+body > div > header > div:nth-child(7) > div.contactme{ padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+}
+body > div > header > div:nth-child(7) > div.contactme > link{
+    background: #3B5998;
+    color: white;}
+
+body > div > header > div:nth-child(7) > div.contactme > a.fa.fa-instagram{
+background:mediumpurple;
+color:white;}
+
+body > div > header > div:nth-child(7) > div.contactme{
+display: inline-flex;
+justify-content: space-between;}
+
